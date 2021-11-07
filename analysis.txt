@@ -1,0 +1,4 @@
+number of months is 86
+total profit/losses is 38382578
+avg profit/losses is 446309.0465116279
+largest change is ['Feb-2012', 1170593]smallest change is ['Sep-2013', -1196225]
